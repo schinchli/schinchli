@@ -4,9 +4,44 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shashankk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankk/)
 [![Topmate](https://img.shields.io/badge/Topmate-4.9★%20·%20Book%20a%201%3A1-E44332)](https://topmate.io/heyshashank)
+[![Website](https://img.shields.io/badge/Website-schinchli.github.io-0E6E63?logo=googlechrome&logoColor=white)](https://schinchli.github.io/)
 [![Credly](https://img.shields.io/badge/Credly-Verified%20badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/shashank-chinchli/badges)
+[![YouTube](https://img.shields.io/badge/YouTube-Mr%20Cloud%20Architect-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@mr.cloudarchitect)
 
 ---
+
+### 💼 Industry experience
+
+| When | Role |
+|---|---|
+| Jan 2026 – present | **Senior Solutions Architect, GitLab**: DevSecOps transformation, GitOps and agentic AI across the software lifecycle for enterprises in India and ASEAN |
+| May 2024 – Jan 2026 | **Solutions Architect II, Amazon Web Services**: architecture, Well-Architected reviews, migrations and AI/ML workloads for financial services, healthcare and technology customers |
+| Jul 2022 – May 2024 | **Technical Trainer, Amazon Web Services**: Champion Authorized Instructor (4.8/5 CSAT); AWS Golden Jacket for holding all 13 AWS certifications |
+| Feb 2021 – Jul 2022 | **Manager, Cloud Security Architect, KPMG India**: zero-trust, identity and compliance automation across AWS, Azure and Google Cloud |
+
+### 🎤 Recent speaking
+
+- **Duo Agent Platform in Action** · GitLab APAC webcast, Jun 2026 · [event](https://page.gitlab.com/webcasts-jun17-gitlab-duo-agent-platform-apac.html)
+- **GitOps in Action: Automating Kubernetes Workflows** · GitLab APAC webcast, May 2026 · [event](https://page.gitlab.com/webcasts-may14-gitops-in-action-apac.html)
+- **AWS Community Day Ahmedabad 2026**, DevOps edition · Jul 2026 · [announcement](https://www.linkedin.com/posts/awsahmedabadcommunity_aws-devopsedition2026-awsome-activity-7467855093321863168-86vP)
+- **Building Chatbots with Amazon Bedrock Knowledge Bases and Agents** · workshop, Kathmandu, Dec 2025 · [event](https://community.wwktm.com/t/workshop-building-chatbots-with-amazon-bedrock-knowledge-bases-and-agents/40)
+- **Building a Content Summarizer with Amazon Bedrock** · AI for Bharat workshop, Nov 2025 · [recording](https://www.youtube.com/watch?v=6GJMoxCP5L4)
+- **A Beginner's Guide to Amazon Bedrock, Knowledge Bases, Guardrails and Security** · BeSA Cloud Academy, Jan 2025 · [recording](https://www.youtube.com/watch?v=BY4YlxhSKr8)
+- **Enhancing Your Cloud Security Posture with Generative AI** · AWS Community Day Mumbai, Apr 2024 · [recording](https://www.youtube.com/watch?v=4xi_btH4LBw)
+
+Also: AWS Summits 2025 and 2026, AWS Community Days in Hyderabad, Vadodara and Nashik, AWS User Groups Mumbai and Bhopal, AWS Cloud Club CHARUSAT. Full list on [my website](https://schinchli.github.io/#speaking).
+
+### ✍️ Writing
+
+- [Build Secure and Responsible GenAI with Guardrails for Amazon Bedrock](https://aws.plainenglish.io/build-secure-and-responsible-genai-with-guardrails-for-amazon-bedrock-01d112a49244)
+- [Automated Vulnerability Detection and Remediation with AWS Security Agent](https://aws.plainenglish.io/how-to-use-aws-security-agent-for-automated-vulnerability-detection-and-remediation-cfdaef9af5b8)
+- [Instanote: From Scattered Notes to a Calm, AI-Planned Day](https://builder.aws.com/content/3GL3PS4JwwNBgwph16KjLhc0qLE/weekend-productivity-challenge-instanote-from-scattered-notes-to-a-calm-ai-planned-day)
+- [How I Prepared for AWS Solutions Architect – Professional (SAP-C02)](https://builder.aws.com/content/2rDdOp0uuF9vGNdvkQmp3hygzzX/how-did-i-prepare-for-aws-certified-solutions-architect-professional-course-sap-c02)
+- More on [AWS Builder Center](https://builder.aws.com/community/@heyshashank?tab=articles)
+
+### 📺 Videos
+
+Tutorials on **[Mr Cloud Architect](https://www.youtube.com/@mr.cloudarchitect)**: [AWS AI Practitioner full course](https://www.youtube.com/watch?v=DhQlXZlbJKA) · [Cloud Practitioner services explained](https://www.youtube.com/watch?v=PA_xh7b45I0) · [WordPress on AWS with Terraform](https://www.youtube.com/watch?v=E6W517x_nTA) · [Security groups](https://www.youtube.com/watch?v=Kh0nO2uYcAE) · [VPC tutorial](https://www.youtube.com/watch?v=juFkeosSt84)
 
 ### 🏗️ What I Architect
 
@@ -70,5 +105,7 @@ Full, verifiable list on **[Credly](https://www.credly.com/users/shashank-chinch
 <sub>Verbatim excerpts from anonymous Topmate reviews.</sub>
 
 ### 🤝 Work With Me
+
+**Invite me to speak** at conferences, community days, user groups, universities or internal engineering teams, in person across India or online. Topics: agentic AI and GenAI in production, cloud security posture, DevSecOps and GitOps, Kubernetes, and cloud careers. See [session formats](https://schinchli.github.io/#formats).
 
 Book a 1:1 on **[Topmate](https://topmate.io/heyshashank)** for cloud architecture reviews, AWS career guidance or GenAI adoption, or connect on **[LinkedIn](https://www.linkedin.com/in/shashankk/)**.
