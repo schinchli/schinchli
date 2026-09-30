@@ -89,8 +89,11 @@ Full, verifiable list on **[Credly](https://www.credly.com/users/shashank-chinch
 
 ### 🌐 Open Source
 
-- **[strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk)** – OpenTelemetry tracing for AI agents, configuration validation, locale-safe model output
-- **[awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples)** – POC/SOW Validator agent on Amazon Bedrock AgentCore
+**Contributor to [Strands Agents](https://github.com/strands-agents)** and **[GitLab](https://contributors.gitlab.com/users/hey.shashank?fromDate=2025-12-04&toDate=)**.
+
+- **Merged into the Strands Agents SDK:** [locale-independent model output in the TypeScript SDK](https://github.com/strands-agents/harness-sdk/pull/4682) (Sep 2026)
+- **Merged into GitLab:** [Compliance Center 404 fix](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/230198) and [onboarding docs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/230199) (Apr 2026)
+- **In review for Strands:** agent-harness fixes for [trace attributes](https://github.com/strands-agents/harness-sdk/pull/4675) and [interventions validation](https://github.com/strands-agents/harness-sdk/pull/4680); TypeScript sample fixes ([#315](https://github.com/strands-agents/samples/pull/315), [#317](https://github.com/strands-agents/samples/pull/317)); and a [turn-by-turn calendar-assistant tutorial](https://github.com/strands-agents/samples/pull/318)
 
 ### 🎓 Mentoring
 
