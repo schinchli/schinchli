@@ -1,17 +1,28 @@
-<p align="center"><strong>CLOUD ARCHITECTURE · DEVSECOPS · GENERATIVE AI</strong></p>
+<p align="center"><strong>CLOUD · SECURITY · SOFTWARE DELIVERY</strong></p>
 
 # Shashank Chinchli
-### Senior Solutions Architect at GitLab · Formerly AWS & KPMG
+### Senior Solutions Architect at GitLab · Ex-AWS
 
-I help enterprise engineering teams design secure cloud platforms, modernise software delivery, and adopt generative and agentic AI. Based in **Bengaluru (Bangalore), India**, working with enterprises across India and ASEAN.
+**13x AWS Certified · GCP & Azure certifications · CCSP**
 
-**AWS & multi-cloud architecture · Platform engineering · Cloud security · GitOps**
+**AWS Community Builder (AI) · AWS User Group Indore Co-lead**
 
-[Portfolio & architecture writing](https://schinchli.github.io/) · [LinkedIn](https://www.linkedin.com/in/shashankk/) · [Verified credentials](https://www.credly.com/users/shashank-chinchli/badges) · [Book a mentoring session](https://topmate.io/heyshashank)
+Cloud architecture, secure delivery and practical AI.
+
+I design cloud workloads, review architectures and help teams adopt DevSecOps and Amazon Bedrock. My experience spans engineering, cloud security consulting, AWS technical training and solutions architecture.
+
+Based in **Bengaluru, India**.
+
+[Portfolio](https://schinchli.github.io/) · [Projects](https://schinchli.github.io/#projects) · [Talks & recordings](https://schinchli.github.io/#speaking) · [LinkedIn](https://www.linkedin.com/in/shashankk/)
 
 ---
 
-**Experience at GitLab, AWS and KPMG** &nbsp; / &nbsp; **AWS Golden Jacket holder** &nbsp; / &nbsp; **1,000+ engineers trained**
+| Experience | Speaking | Training & mentoring | Reach |
+| :--- | :--- | :--- | :--- |
+| **14+ years** | **20+ sessions** | **1,000+ engineers** | **9 cities** |
+| Engineering, security & architecture | Talks, workshops & webcasts | Trained and mentored | Sessions across India & Nepal |
+
+Explore architecture decisions, working code, technical guides and sessions below.
 
 ## Architecture focus
 
@@ -26,12 +37,12 @@ I help enterprise engineering teams design secure cloud platforms, modernise sof
 
 ## Selected engineering work
 
-Architecture decisions are most useful when you can inspect the implementation. These projects show how I approach validation, security boundaries and developer experience.
+Educational reference projects with source code and design decisions available for review.
 
 ### [AWS SOW Validator](https://github.com/schinchli/aws-sow-validator)
 An educational reference implementation for reviewing AWS scopes of work and proposed architectures, built with **Python, Amazon Nova, Amazon Bedrock AgentCore and AWS CDK**.
 
-- Separates model-assisted interpretation from deterministic validation and pricing.
+- Separates model-assisted interpretation from deterministic validation and pricing. The model-assisted SOW score remains advisory.
 - Documents design tradeoffs through architecture decision records, including human confirmation for diagram extraction and code-enforced source allowlists.
 - Includes an optional web interface and bounded result-sharing links.
 
@@ -40,23 +51,30 @@ An educational reference implementation for reviewing AWS scopes of work and pro
 ### [Strands Calendar Agent](https://github.com/schinchli/strands-calendar-agent)
 A conversational assistant built with **TypeScript, Strands Agents, Amazon Bedrock and SQLite**.
 
-- Enforces appointment conflicts in application code.
+- Checks for appointment conflicts before creating or moving a booking.
 - Demonstrates typed tools, persistent conversation turns and configurable model settings.
 - Includes tests for calendar rules and configuration.
 
-[Implementation walkthrough](https://schinchli.github.io/blog/strands-calendar-agent/) · [Source & quick start](https://github.com/schinchli/strands-calendar-agent#quick-start)
+[Architecture note: calendar rules and AI tools](https://schinchli.github.io/writing/reliable-ai-tools/) · [Source & quick start](https://github.com/schinchli/strands-calendar-agent#quick-start)
 
 ### [Kubernetes learning labs](https://github.com/schinchli/learnk8s)
-Animated, narrated labs covering **Kubernetes fundamentals, SRE scenarios and Amazon EKS**—turning infrastructure concepts into practical learning material.
+Animated, narrated labs covering **Kubernetes fundamentals, SRE scenarios and Amazon EKS**.
 
 ## Industry experience
 
 | When | Role |
 |---|---|
-| Jan 2026 – present | **Senior Solutions Architect, GitLab**: DevSecOps transformation, GitOps and agentic AI across the software lifecycle for enterprises in India and ASEAN |
+| Jan 2026 – present | **Senior Solutions Architect, GitLab**: DevSecOps, GitOps and agentic AI for enterprise teams in India and ASEAN |
 | May 2024 – Jan 2026 | **Solutions Architect II, Amazon Web Services**: architecture, Well-Architected reviews, migrations and AI/ML workloads for financial services, healthcare and technology customers |
-| Jul 2022 – May 2024 | **Technical Trainer, Amazon Web Services**: Champion Authorized Instructor (4.8/5 CSAT); AWS Golden Jacket for holding all 13 AWS certifications |
+| Jul 2022 – May 2024 | **Technical Trainer, Amazon Web Services**: architecture, security, machine learning and DevOps training; Champion Authorized Instructor (4.8/5 CSAT) |
 | Feb 2021 – Jul 2022 | **Manager, Cloud Security Architect, KPMG India**: zero-trust, identity and compliance automation across AWS, Azure and Google Cloud |
+
+## AWS contributions & community
+
+- **Published architecture:** Co-author of [Build Your Own Face Recognition Service Using Amazon Rekognition](https://aws.amazon.com/blogs/machine-learning/build-your-own-face-recognition-service-using-amazon-rekognition/) on the AWS Machine Learning Blog.
+- **Community:** AWS Community Builder (AI) and **AWS User Group Indore Co-lead**. [AWS User Group Indore](https://www.awsugindore.in/).
+- **Technical education:** Former AWS Technical Trainer and Solutions Architect II; sessions at AWS Summits, Community Days and user groups.
+- **Code & writing:** Contributions to Strands Agents and AWS sample repositories, plus guides on [AWS Builder Center](https://builder.aws.com/community/@heyshashank?tab=articles).
 
 ## Open-source contributions
 
@@ -70,7 +88,9 @@ I contribute fixes and documentation to **[Strands Agents](https://github.com/st
 
 ## Writing, speaking & teaching
 
-I share practical guidance on cloud architecture, secure AI adoption and software delivery.
+Implementation guides, design notes and sessions on cloud, security and agentic AI.
+
+- **Architecture note:** [Enforce calendar rules in code when building an AI agent](https://schinchli.github.io/writing/reliable-ai-tools/) — implementation, tradeoffs and validation.
 
 - **Responsible generative AI:** [Guardrails for Amazon Bedrock](https://aws.plainenglish.io/build-secure-and-responsible-genai-with-guardrails-for-amazon-bedrock-01d112a49244)
 - **Security automation:** [Vulnerability detection and remediation with AWS Security Agent](https://aws.plainenglish.io/how-to-use-aws-security-agent-for-automated-vulnerability-detection-and-remediation-cfdaef9af5b8)
@@ -84,7 +104,6 @@ I share practical guidance on cloud architecture, secure AI adoption and softwar
 
 - **Duo Agent Platform in Action** · GitLab APAC webcast, Jun 2026 · [event](https://page.gitlab.com/webcasts-jun17-gitlab-duo-agent-platform-apac.html)
 - **GitOps in Action: Automating Kubernetes Workflows** · GitLab APAC webcast, May 2026 · [event](https://page.gitlab.com/webcasts-may14-gitops-in-action-apac.html)
-- **AWS Community Day Ahmedabad 2026**, DevOps edition · Jul 2026 · [announcement](https://www.linkedin.com/posts/awsahmedabadcommunity_aws-devopsedition2026-awsome-activity-7467855093321863168-86vP)
 - **Building Chatbots with Amazon Bedrock Knowledge Bases and Agents** · workshop, Kathmandu, Dec 2025 · [event](https://community.wwktm.com/t/workshop-building-chatbots-with-amazon-bedrock-knowledge-bases-and-agents/40)
 - **Building a Content Summarizer with Amazon Bedrock** · AI for Bharat workshop, Nov 2025 · [recording](https://www.youtube.com/watch?v=6GJMoxCP5L4)
 - **A Beginner's Guide to Amazon Bedrock, Knowledge Bases, Guardrails and Security** · BeSA Cloud Academy, Jan 2025 · [recording](https://www.youtube.com/watch?v=BY4YlxhSKr8)
@@ -96,7 +115,9 @@ Also: AWS Summits 2025 and 2026, AWS Community Days in Hyderabad, Vadodara and N
 
 ## Credentials
 
-**AWS Golden Jacket holder**, earned while holding all 13 AWS certifications during my time as an AWS Technical Trainer. Credentials span AWS, Google Cloud and cloud security; individual badge pages provide issuance and validity details.
+**13x AWS Certified · GCP & Azure certifications · CCSP**
+
+See individual credential pages for issuance and validity. Selected badges are listed below.
 
 [View credentials on Credly](https://www.credly.com/users/shashank-chinchli/badges)
 
