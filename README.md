@@ -1,16 +1,55 @@
-# Shashank Chinchli — Senior Solutions Architect | AWS & Multi-Cloud | GenAI & DevSecOps
+<p align="center"><strong>CLOUD ARCHITECTURE · DEVSECOPS · GENERATIVE AI</strong></p>
 
-**Senior Solutions Architect at [GitLab](https://about.gitlab.com), ex-AWS**, based in Bangalore, India. I design secure, scalable platforms on **AWS**, **Google Cloud** and **Microsoft Azure**, and help enterprise engineering teams adopt **DevSecOps**, **platform engineering** and **agentic AI** with measurable outcomes. AWS Golden Jacket holder; I've trained 1,000+ engineers across Fortune 500 companies.
+# Shashank Chinchli
+### Senior Solutions Architect at GitLab · Formerly AWS & KPMG
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashankk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankk/)
-[![Topmate](https://img.shields.io/badge/Topmate-4.9★%20·%20Book%20a%201%3A1-E44332)](https://topmate.io/heyshashank)
-[![Website](https://img.shields.io/badge/Website-schinchli.github.io-0E6E63?logo=googlechrome&logoColor=white)](https://schinchli.github.io/)
-[![Credly](https://img.shields.io/badge/Credly-Verified%20badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/shashank-chinchli/badges)
-[![YouTube](https://img.shields.io/badge/YouTube-Mr%20Cloud%20Architect-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@mr.cloudarchitect)
+I help enterprise engineering teams design secure cloud platforms, modernise software delivery, and adopt generative and agentic AI. Based in **Bengaluru (Bangalore), India**, working with enterprises across India and ASEAN.
+
+**AWS & multi-cloud architecture · Platform engineering · Cloud security · GitOps**
+
+[Portfolio & architecture writing](https://schinchli.github.io/) · [LinkedIn](https://www.linkedin.com/in/shashankk/) · [Verified credentials](https://www.credly.com/users/shashank-chinchli/badges) · [Book a mentoring session](https://topmate.io/heyshashank)
 
 ---
 
-### 💼 Industry experience
+**Experience at GitLab, AWS and KPMG** &nbsp; / &nbsp; **AWS Golden Jacket holder** &nbsp; / &nbsp; **1,000+ engineers trained**
+
+## Architecture focus
+
+| Area | Where I help |
+| :--- | :--- |
+| **Cloud & platform architecture** | AWS landing zones, Well-Architected reviews, migrations, Kubernetes, serverless, networking and cost optimisation |
+| **Enterprise DevSecOps** | CI/CD, GitOps, application security, policy enforcement and compliance across the software delivery lifecycle |
+| **Generative & agentic AI** | Amazon Bedrock, Bedrock AgentCore, Strands Agents, Vertex AI, LLM gateways and AI observability |
+| **Security & multi-cloud** | Identity, zero-trust design and compliance automation across AWS, Microsoft Azure and Google Cloud; hybrid and air-gapped platforms |
+
+**Tools I work with:** GitLab · Terraform · AWS CloudFormation · Amazon EKS · Red Hat OpenShift · Argo CD · OpenTelemetry
+
+## Selected engineering work
+
+Architecture decisions are most useful when you can inspect the implementation. These projects show how I approach validation, security boundaries and developer experience.
+
+### [AWS SOW Validator](https://github.com/schinchli/aws-sow-validator)
+An educational reference implementation for reviewing AWS scopes of work and proposed architectures, built with **Python, Amazon Nova, Amazon Bedrock AgentCore and AWS CDK**.
+
+- Separates model-assisted interpretation from deterministic validation and pricing.
+- Documents design tradeoffs through architecture decision records, including human confirmation for diagram extraction and code-enforced source allowlists.
+- Includes an optional web interface and bounded result-sharing links.
+
+[Architecture & data flow](https://github.com/schinchli/aws-sow-validator/blob/main/docs/ARCHITECTURE.md) · [Design decisions](https://github.com/schinchli/aws-sow-validator/tree/main/docs/decisions)
+
+### [Strands Calendar Agent](https://github.com/schinchli/strands-calendar-agent)
+A conversational assistant built with **TypeScript, Strands Agents, Amazon Bedrock and SQLite**.
+
+- Enforces appointment conflicts in application code.
+- Demonstrates typed tools, persistent conversation turns and configurable model settings.
+- Includes tests for calendar rules and configuration.
+
+[Implementation walkthrough](https://schinchli.github.io/blog/strands-calendar-agent/) · [Source & quick start](https://github.com/schinchli/strands-calendar-agent#quick-start)
+
+### [Kubernetes learning labs](https://github.com/schinchli/learnk8s)
+Animated, narrated labs covering **Kubernetes fundamentals, SRE scenarios and Amazon EKS**—turning infrastructure concepts into practical learning material.
+
+## Industry experience
 
 | When | Role |
 |---|---|
@@ -19,7 +58,29 @@
 | Jul 2022 – May 2024 | **Technical Trainer, Amazon Web Services**: Champion Authorized Instructor (4.8/5 CSAT); AWS Golden Jacket for holding all 13 AWS certifications |
 | Feb 2021 – Jul 2022 | **Manager, Cloud Security Architect, KPMG India**: zero-trust, identity and compliance automation across AWS, Azure and Google Cloud |
 
-### 🎤 Recent speaking
+## Open-source contributions
+
+I contribute fixes and documentation to **[Strands Agents](https://github.com/strands-agents)** and **[GitLab](https://contributors.gitlab.com/users/hey.shashank?fromDate=2025-12-04&toDate=)**.
+
+- [Locale-independent model output in the Strands TypeScript SDK](https://github.com/strands-agents/harness-sdk/pull/4682)
+- [GitLab Compliance Center routing fix](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/230198)
+- [GitLab onboarding documentation](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/230199)
+
+[More Strands contributions](https://github.com/pulls?q=is%3Apr+author%3Aschinchli+org%3Astrands-agents)
+
+## Writing, speaking & teaching
+
+I share practical guidance on cloud architecture, secure AI adoption and software delivery.
+
+- **Responsible generative AI:** [Guardrails for Amazon Bedrock](https://aws.plainenglish.io/build-secure-and-responsible-genai-with-guardrails-for-amazon-bedrock-01d112a49244)
+- **Security automation:** [Vulnerability detection and remediation with AWS Security Agent](https://aws.plainenglish.io/how-to-use-aws-security-agent-for-automated-vulnerability-detection-and-remediation-cfdaef9af5b8)
+- **Agentic software delivery:** [GitLab Duo Agent Platform webcast](https://page.gitlab.com/webcasts-jun17-gitlab-duo-agent-platform-apac.html)
+- **Kubernetes & GitOps:** [Automating Kubernetes workflows](https://page.gitlab.com/webcasts-may14-gitops-in-action-apac.html)
+
+[All articles on AWS Builder Center](https://builder.aws.com/community/@heyshashank?tab=articles) · [Mr Cloud Architect on YouTube](https://www.youtube.com/@mr.cloudarchitect) · [Speaking portfolio](https://schinchli.github.io/#speaking)
+
+<details>
+<summary><strong>Selected talks & workshops</strong></summary>
 
 - **Duo Agent Platform in Action** · GitLab APAC webcast, Jun 2026 · [event](https://page.gitlab.com/webcasts-jun17-gitlab-duo-agent-platform-apac.html)
 - **GitOps in Action: Automating Kubernetes Workflows** · GitLab APAC webcast, May 2026 · [event](https://page.gitlab.com/webcasts-may14-gitops-in-action-apac.html)
@@ -31,27 +92,16 @@
 
 Also: AWS Summits 2025 and 2026, AWS Community Days in Hyderabad, Vadodara and Nashik, AWS User Groups Mumbai and Bhopal, AWS Cloud Club CHARUSAT. Full list on [my website](https://schinchli.github.io/#speaking).
 
-### ✍️ Writing
+</details>
 
-- [Build Secure and Responsible GenAI with Guardrails for Amazon Bedrock](https://aws.plainenglish.io/build-secure-and-responsible-genai-with-guardrails-for-amazon-bedrock-01d112a49244)
-- [Automated Vulnerability Detection and Remediation with AWS Security Agent](https://aws.plainenglish.io/how-to-use-aws-security-agent-for-automated-vulnerability-detection-and-remediation-cfdaef9af5b8)
-- [Instanote: From Scattered Notes to a Calm, AI-Planned Day](https://builder.aws.com/content/3GL3PS4JwwNBgwph16KjLhc0qLE/weekend-productivity-challenge-instanote-from-scattered-notes-to-a-calm-ai-planned-day)
-- [How I Prepared for AWS Solutions Architect – Professional (SAP-C02)](https://builder.aws.com/content/2rDdOp0uuF9vGNdvkQmp3hygzzX/how-did-i-prepare-for-aws-certified-solutions-architect-professional-course-sap-c02)
-- More on [AWS Builder Center](https://builder.aws.com/community/@heyshashank?tab=articles)
+## Credentials
 
-### 📺 Videos
+**AWS Golden Jacket holder**, earned while holding all 13 AWS certifications during my time as an AWS Technical Trainer. Credentials span AWS, Google Cloud and cloud security; individual badge pages provide issuance and validity details.
 
-Tutorials on **[Mr Cloud Architect](https://www.youtube.com/@mr.cloudarchitect)**: [AWS AI Practitioner full course](https://www.youtube.com/watch?v=DhQlXZlbJKA) · [Cloud Practitioner services explained](https://www.youtube.com/watch?v=PA_xh7b45I0) · [WordPress on AWS with Terraform](https://www.youtube.com/watch?v=E6W517x_nTA) · [Security groups](https://www.youtube.com/watch?v=Kh0nO2uYcAE) · [VPC tutorial](https://www.youtube.com/watch?v=juFkeosSt84)
+[View credentials on Credly](https://www.credly.com/users/shashank-chinchli/badges)
 
-### 🏗️ What I Architect
-
-- **AWS cloud architecture** – landing zones, Well-Architected reviews, EKS, ECS, Lambda, CloudFront, EFS, networking, cost optimisation
-- **Multi-cloud & hybrid** – AWS, Google Cloud (Vertex AI, GCE) and Azure; self-managed and **air-gapped** platforms, Red Hat OpenShift
-- **Generative & agentic AI** – Amazon Bedrock, Bedrock AgentCore, Strands Agents, Vertex AI; LLM gateways and AI observability with OpenTelemetry
-- **DevSecOps at enterprise scale** – CI/CD, SAST, secret detection, dependency and container scanning, DAST, security policies and compliance
-- **Infrastructure as Code** – Terraform, AWS CloudFormation, GitOps with Argo CD
-
-### 🏅 Certifications
+<details>
+<summary><strong>Explore certification badges</strong></summary>
 
 **AWS Professional**
 <p>
@@ -87,28 +137,13 @@ Tutorials on **[Mr Cloud Architect](https://www.youtube.com/@mr.cloudarchitect)*
 
 Full, verifiable list on **[Credly](https://www.credly.com/users/shashank-chinchli/badges)**.
 
-### 🌐 Open Source
+</details>
 
-**Contributor to [Strands Agents](https://github.com/strands-agents)** and **[GitLab](https://contributors.gitlab.com/users/hey.shashank?fromDate=2025-12-04&toDate=)**.
+## Connect
 
-- **Merged into the Strands Agents SDK:** [locale-independent model output in the TypeScript SDK](https://github.com/strands-agents/harness-sdk/pull/4682) (Sep 2026)
-- **Merged into GitLab:** [Compliance Center 404 fix](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/230198) and [onboarding docs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/230199) (Apr 2026)
-- **In review for Strands:** agent-harness fixes for [trace attributes](https://github.com/strands-agents/harness-sdk/pull/4675) and [interventions validation](https://github.com/strands-agents/harness-sdk/pull/4680); TypeScript sample fixes ([#315](https://github.com/strands-agents/samples/pull/315), [#317](https://github.com/strands-agents/samples/pull/317)); and a [turn-by-turn calendar-assistant tutorial](https://github.com/strands-agents/samples/pull/318)
+**Architecture & community:** Connect on [LinkedIn](https://www.linkedin.com/in/shashankk/) to discuss enterprise cloud architecture, DevSecOps or secure AI adoption.
 
-### 🎓 Mentoring
+**Speaking:** [Invite me to speak](https://schinchli.github.io/#formats) at conferences, user groups, universities or engineering teams across India and online.
 
-**4.9★ from 35 ratings · 99 sessions** on [Topmate](https://topmate.io/heyshashank) — AWS certification strategy, Solutions Architect career moves and cloud interview prep.
+**Mentoring:** [Book a 1:1 on Topmate](https://topmate.io/heyshashank) for AWS certification strategy, solutions architect career guidance and cloud interview preparation.
 
-> "He explained the key areas to focus on becoming AWS Solution Architect. I really appreciate the practical advice and clear direction."
-
-> "Shashank provided invaluable guidance on AWS certification, helping me clear my certification with ease."
-
-> "Shashank is our savior when it comes to anything AWS! He's extremely patient and always has taught us so much in a short amount of time."
-
-<sub>Verbatim excerpts from anonymous Topmate reviews.</sub>
-
-### 🤝 Work With Me
-
-**Invite me to speak** at conferences, community days, user groups, universities or internal engineering teams, in person across India or online. Topics: agentic AI and GenAI in production, cloud security posture, DevSecOps and GitOps, Kubernetes, and cloud careers. See [session formats](https://schinchli.github.io/#formats).
-
-Book a 1:1 on **[Topmate](https://topmate.io/heyshashank)** for cloud architecture reviews, AWS career guidance or GenAI adoption, or connect on **[LinkedIn](https://www.linkedin.com/in/shashankk/)**.
