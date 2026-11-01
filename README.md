@@ -1,7 +1,7 @@
 <p align="center"><strong>CLOUD · SECURITY · SOFTWARE DELIVERY</strong></p>
 
 # Shashank Chinchli
-### Senior Solutions Architect at GitLab · Ex-AWS
+### Senior Solutions Architect, **GitLab** | Ex-AWS
 
 **13x AWS Certified · GCP & Azure certifications · CCSP**
 
